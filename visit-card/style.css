@@ -1,0 +1,26 @@
+html{
+    background-color: lightgray;
+}
+body{
+    font-family: "PT Mono";
+}
+H1{
+    color: darkorchid;
+}
+nav{
+    background-color: #949494;
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border-left: 5px solid #33ADFF;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+}
+p{
+    font-family: Centaur;
+}
+footer{
+    color: gray;
+}
